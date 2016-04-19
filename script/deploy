@@ -1,6 +1,6 @@
 #!bin/sh
 
-ssh app@ec2-54-86-71-2.compute-1.amazonaws.com <<EOF
+ssh app@ec2-54-86-.compute-1.amazonaws.com <<EOF
   cd ~/hellojenkins
   git pull
   npm install --production
