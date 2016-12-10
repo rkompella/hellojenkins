@@ -1,4 +1,4 @@
-#!bin/sh
+#!/bin/sh
 
 ssh ec2-user@ec2-54-234-115-68.compute-1.amazonaws.com <<EOF
   cd ~/hellojenkins
